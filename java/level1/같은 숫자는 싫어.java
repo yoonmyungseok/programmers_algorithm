@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public int[] solution(int []arr) {
         int[] answer;
         int cnt=1;
@@ -18,4 +18,4 @@ public class Solution {
         return answer;
     }
 }
-출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+//출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
